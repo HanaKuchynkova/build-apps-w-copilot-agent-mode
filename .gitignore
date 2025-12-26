@@ -31,3 +31,14 @@ yarn-error.log*
 # Python files
 *.pyc
 __pycache__/
+
+# octofit virtualenv
+octofit-tracker/backend/venv/
+*.sqlite3
+
+# Editor and OS
+.vscode/
+*.log
+
+# Frontend
+frontend/node_modules/
